@@ -1,0 +1,4 @@
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.Flappy-Bird filter=lfs diff=lfs merge=lfs -text
+*.FlappyBird filter=lfs diff=lfs merge=lfs -text
+*.Flappy[[:space:]]Bird filter=lfs diff=lfs merge=lfs -text
